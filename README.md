@@ -1,6 +1,6 @@
 # Nifty Experiments
 
-A collection of questions, thoughts, and explorations regarding NIFTY 50 trading patterns and probability analysis.
+A collection of questions, thoughts, and explorations regarding NIFTY 50 trading patterns and probability analysis. (Note: A lot of code in this project was generated with the help of AI)
 
 ## Project Structure
 
